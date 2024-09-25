@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://frjao.github.io/tcV/sitemap.tcV.gz
